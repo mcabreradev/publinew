@@ -2,7 +2,7 @@
 
 $host = 'localhost';
 $user = 'root';
-$password = 'root';
+$password = 'noname';
 $database = 'publinew';
 
 $con = mysql_connect($host, $user, $password);
