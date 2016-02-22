@@ -1,0 +1,52 @@
+header{
+	
+	color: black;
+}
+
+
+aside{
+	background: #CFEFF4;
+}
+.color1{
+	background: #90DBF3;	
+}
+footer{
+	background: #263F71;
+	color: white;
+margin-top: 30em;
+margin-bottom: none;
+}
+.color2{
+	background: #649FD8;
+}
+
+.quitar-float{
+
+	float: none;
+}
+
+.no-list li{
+ list-style-type: none;
+ margin: 0px;
+ padding: 0px;
+}
+.margen-arriba{
+	margin-top: 20px;
+}
+.imagen{
+	max-height: 150px;
+	max-width: 150px;
+}
+.izquierda{
+	right: 250px;
+}
+.derecha{
+	left: 250px;
+}
+ .derechamas{
+left: 450px
+
+}
+.margen-topmax{
+	margin-top: 50px;
+}
